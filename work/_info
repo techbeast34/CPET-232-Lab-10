@@ -1,0 +1,137 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dS:/CPET232/Lab9
+Elab10
+Z0 w1543592621
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dS:/CPET232/Lab10
+Z5 8S:/CPET232/Lab10/Lab10.vhd
+Z6 FS:/CPET232/Lab10/Lab10.vhd
+l0
+L5
+VmHIUZMT^OlXVBNCY^fi>a3
+!s100 5T6SRgk=A12JfX;477D?O0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1543592751
+!i10b 1
+Z9 !s108 1543592751.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|S:/CPET232/Lab10/Lab10.vhd|
+Z11 !s107 S:/CPET232/Lab10/Lab10.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Amodel
+R1
+R2
+R3
+DEx4 work 5 lab10 0 22 mHIUZMT^OlXVBNCY^fi>a3
+l28
+L18
+VTNcZ=JMo`dK?QbKdVgW>21
+!s100 bH15:S83cGT2>9Jgfh>Y52
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Essd_driver
+Z14 w1542314084
+R1
+R2
+R3
+R4
+Z15 8S:/CPET232/Lab10/ssd_driver.vhd
+Z16 FS:/CPET232/Lab10/ssd_driver.vhd
+l0
+L10
+VOPO=c4Na;P8QiD=^McL:W1
+!s100 JEB415hfSm1>1Yl?[FA3G0
+R7
+32
+Z17 !s110 1543592750
+!i10b 1
+Z18 !s108 1543592749.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|S:/CPET232/Lab10/ssd_driver.vhd|
+Z20 !s107 S:/CPET232/Lab10/ssd_driver.vhd|
+!i113 1
+R12
+R13
+Amodel
+R1
+R2
+R3
+DEx4 work 10 ssd_driver 0 22 OPO=c4Na;P8QiD=^McL:W1
+l37
+L16
+VXEMg8I;OD>]gjb<n0Ca]`1
+!s100 bBPKN<<IbPM[c7NZ4Yb[90
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Evending_tb_vhd
+Z21 w1542314579
+R1
+Z22 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z23 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+R4
+Z24 8S:/CPET232/Lab10/vending_machine_tb.vhd
+Z25 FS:/CPET232/Lab10/vending_machine_tb.vhd
+l0
+L58
+V0PAKR5W=;and5IYhad_5J2
+!s100 @cf5Vg?_TEDlGc6S=Ai=<0
+R7
+32
+Z26 !s110 1543592752
+!i10b 1
+Z27 !s108 1543592752.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|S:/CPET232/Lab10/vending_machine_tb.vhd|
+Z29 !s107 S:/CPET232/Lab10/vending_machine_tb.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R22
+R23
+R2
+R3
+Z30 DEx4 work 14 vending_tb_vhd 0 22 0PAKR5W=;and5IYhad_5J2
+l96
+L61
+Z31 VGF0Cez7DAYzFE?5K7:=Rn1
+Z32 !s100 nMai]A[:ASaGZBNWD7U5[0
+R7
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R12
+R13
